@@ -70,3 +70,5 @@
 /Users/air/Desktop/Week1HelloWorldMVC/obj/Debug/netcoreapp3.1/MvcMovie.pdb
 /Users/air/Desktop/Week1HelloWorldMVC/obj/Debug/netcoreapp3.1/MvcMovie.genruntimeconfig.cache
 /Users/air/Desktop/Week1HelloWorldMVC/obj/Debug/netcoreapp3.1/MvcMovie.csproj.CopyComplete
+/Users/air/Desktop/Week1HelloWorldMVC/obj/Debug/netcoreapp3.1/Razor/Views/HelloWorld/Index.cshtml.g.cs
+/Users/air/Desktop/Week1HelloWorldMVC/obj/Debug/netcoreapp3.1/Razor/Views/HelloWorld/Welcome.cshtml.g.cs
