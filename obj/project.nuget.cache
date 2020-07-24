@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hM1cuCHnqGf9RsR3nOq529GU6tPLjM+U/y0WHV5b3Lm5RZJ8A/1xY6doz7NPWMKtje4mKtTB15veg2QY1vYa2A==",
+  "dgSpecHash": "Tliy74jJlR3OayIqKrwdxN9lHiHFQuARhqFfsG3PnVjKECdHZ/vk1SIKxSpGrOdWsPO+uQybar98lwj9GcIZsw==",
   "success": true,
-  "projectFilePath": "/Users/air/Projects/MvcMovie/MvcMovie/MvcMovie.csproj",
+  "projectFilePath": "/Users/air/Desktop/Week1HelloWorldMVC/MvcMovie.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

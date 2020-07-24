@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/air/Projects/MvcMovie/MvcMovie/MvcMovie.csproj",
+      "projectUniqueName": "/Users/air/Desktop/Week1HelloWorldMVC/MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "/Users/air/Projects/MvcMovie/MvcMovie/MvcMovie.csproj",
+      "projectPath": "/Users/air/Desktop/Week1HelloWorldMVC/MvcMovie.csproj",
       "packagesPath": "/Users/air/.nuget/packages/",
-      "outputPath": "/Users/air/Projects/MvcMovie/MvcMovie/obj/",
+      "outputPath": "/Users/air/Desktop/Week1HelloWorldMVC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/air/.config/NuGet/NuGet.Config"
