@@ -201,3 +201,4 @@
 /Users/air/Desktop/Week1HelloWorldMVC/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
 /Users/air/Desktop/Week1HelloWorldMVC/obj/Debug/netcoreapp3.1/Razor/Views/Movies/Details.cshtml.g.cs
 /Users/air/Desktop/Week1HelloWorldMVC/obj/Debug/netcoreapp3.1/Razor/Views/Movies/Index.cshtml.g.cs
+/Users/air/Desktop/Week1HelloWorldMVC/obj/Debug/netcoreapp3.1/Razor/Views/Movies/Edit.cshtml.g.cs
