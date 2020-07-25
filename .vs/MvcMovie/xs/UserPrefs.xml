@@ -1,28 +1,12 @@
 ﻿<Properties StartupConfiguration="{824ADCFE-E606-4656-A98B-AC349EE7848B}|Default">
   <MonoDevelop.Ide.ItemProperties.MvcMovie PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Models/MovieGenreViewModel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/MoviesController.cs">
     <Files>
-      <File FileName="Controllers/MoviesController.cs" Line="50" Column="10" />
-      <File FileName="Models/Movie.cs" Line="13" Column="2" />
-      <File FileName="Views/Movies/Index.cshtml" Line="66" Column="9" />
-      <File FileName="Data/MvcMovieContext.cs" Line="15" Column="2" />
-      <File FileName="Models/MovieGenreViewModel.cs" Line="13" Column="2" />
+      <File FileName="Controllers/MoviesController.cs" Line="21" Column="1" />
+      <File FileName="Views/Movies/Edit.cshtml" />
+      <File FileName="Views/Movies/Details.cshtml" />
+      <File FileName="Views/Movies/Index.cshtml" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="MvcMovie" expanded="True">
-            <Node name="MvcMovie" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Data" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="MovieGenreViewModel.cs" selected="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
