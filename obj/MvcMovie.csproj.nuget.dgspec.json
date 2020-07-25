@@ -14,7 +14,7 @@
         "outputPath": "/Users/air/Desktop/Week1HelloWorldMVC/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/air/.nuget/NuGet/NuGet.Config"
+          "/Users/air/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
