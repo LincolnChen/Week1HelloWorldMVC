@@ -1,25 +1,24 @@
 ﻿<Properties StartupConfiguration="{824ADCFE-E606-4656-A98B-AC349EE7848B}|Default">
   <MonoDevelop.Ide.ItemProperties.MvcMovie PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Movies/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Controllers/HelloWorldController.cs" Line="21" Column="2" />
-      <File FileName="Migrations/20200725041555_InitialCreate.cs" Line="33" Column="2" />
-      <File FileName="Startup.cs" Line="71" Column="6" />
-      <File FileName="Controllers/MoviesController.cs" Line="33" Column="35" />
-      <File FileName="Views/Movies/Details.cshtml" Line="12" Column="21" />
-      <File FileName="Views/Movies/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="33" Column="35" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Models/SeedData.cs" Line="35" Column="67" />
+      <File FileName="Program.cs" Line="20" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MvcMovie" expanded="True">
             <Node name="MvcMovie" expanded="True">
+              <Node name="Controllers" expanded="True" />
               <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Movies" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
-                </Node>
+                <Node name="Movies" expanded="True" />
               </Node>
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
